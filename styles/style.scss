@@ -500,7 +500,7 @@ body {
     }
 
     .slider-1 {
-      background-image: url(/src/assets/images/bethemestore2-slider-bg1.webp);
+      background-image: url(../assets/images/bethemestore2-slider-bg1.webp);
       justify-content: space-around;
 
       .banner-pic {
@@ -579,7 +579,7 @@ body {
     }
 
     .slider-2 {
-      background-image: url(/src/assets/images/bethemestore2-slider-bg2.webp);
+      background-image: url(../assets/images/bethemestore2-slider-bg2.webp);
 
       .banner-pic {
         position: absolute;
@@ -650,7 +650,7 @@ body {
     }
 
     .slider-3 {
-      background-image: url(/src/assets/images/bethemestore2-slider-bg3.webp);
+      background-image: url(../assets/images/bethemestore2-slider-bg3.webp);
       justify-content: center;
       align-items: start !important;
       .banner-content {
@@ -761,7 +761,7 @@ body {
       &:first-child {
         .recommend-box {
           background-color: $black-bgr;
-          background-image: url(/src/assets/images/bethemestore2-wrap-bg1.webp);
+          background-image: url(../assets/images/bethemestore2-wrap-bg1.webp);
           margin-right: 15px;
           color: #FFF;
 
@@ -772,7 +772,7 @@ body {
         .recommend-box {
           background-color: $grey-bgr;
           margin-left: 15px;
-          background-image: url(/src/assets/images/bethemestore2-wrap-bg2.webp);
+          background-image: url(../assets/images/bethemestore2-wrap-bg2.webp);
         }
       }
     }
@@ -997,7 +997,7 @@ body {
 
   .sound-products {
     background-color: $white-color;
-    background-image: url(/src/assets/images/bethemestore2-section-bg1.webp);
+    background-image: url(../assets/images/bethemestore2-section-bg1.webp);
     background-size: auto;
     background-position: center;
     padding-top: 100px;
@@ -1238,7 +1238,7 @@ body {
 
   .subcribes {
     padding: 100px 0;
-    background-image: url(/src/assets/images/bethemestore2-section-bg2.webp);
+    background-image: url(../assets/images/bethemestore2-section-bg2.webp);
     background-size: cover;
     background-position: center;
 

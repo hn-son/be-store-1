@@ -388,7 +388,7 @@ body {
   background-color: #2927E9;
 }
 .main .present-banner .slider-1 {
-  background-image: url(/src/assets/images/bethemestore2-slider-bg1.webp);
+  background-image: url(../assets/images/bethemestore2-slider-bg1.webp);
   justify-content: space-around;
 }
 .main .present-banner .slider-1 .banner-pic {
@@ -453,7 +453,7 @@ body {
   font-weight: 600;
 }
 .main .present-banner .slider-2 {
-  background-image: url(/src/assets/images/bethemestore2-slider-bg2.webp);
+  background-image: url(../assets/images/bethemestore2-slider-bg2.webp);
 }
 .main .present-banner .slider-2 .banner-pic {
   position: absolute;
@@ -509,7 +509,7 @@ body {
   transition: all 0.4s ease-in-out;
 }
 .main .present-banner .slider-3 {
-  background-image: url(/src/assets/images/bethemestore2-slider-bg3.webp);
+  background-image: url(../assets/images/bethemestore2-slider-bg3.webp);
   justify-content: center;
   align-items: start !important;
 }
@@ -602,14 +602,14 @@ body {
 }
 .main .recommend-section .recommend-wrapper:first-child .recommend-box {
   background-color: #282828;
-  background-image: url(/src/assets/images/bethemestore2-wrap-bg1.webp);
+  background-image: url(../assets/images/bethemestore2-wrap-bg1.webp);
   margin-right: 15px;
   color: #FFF;
 }
 .main .recommend-section .recommend-wrapper:last-child .recommend-box {
   background-color: #F2F2F0;
   margin-left: 15px;
-  background-image: url(/src/assets/images/bethemestore2-wrap-bg2.webp);
+  background-image: url(../assets/images/bethemestore2-wrap-bg2.webp);
 }
 .main .top-rate {
   padding-top: 100px;
@@ -780,7 +780,7 @@ body {
 }
 .main .sound-products {
   background-color: #f7f7f7;
-  background-image: url(/src/assets/images/bethemestore2-section-bg1.webp);
+  background-image: url(../assets/images/bethemestore2-section-bg1.webp);
   background-size: auto;
   background-position: center;
   padding-top: 100px;
@@ -966,7 +966,7 @@ body {
 }
 .main .subcribes {
   padding: 100px 0;
-  background-image: url(/src/assets/images/bethemestore2-section-bg2.webp);
+  background-image: url(../assets/images/bethemestore2-section-bg2.webp);
   background-size: cover;
   background-position: center;
 }
