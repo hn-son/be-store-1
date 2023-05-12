@@ -653,6 +653,9 @@ body {
       background-image: url(../assets/images/bethemestore2-slider-bg3.webp);
       justify-content: center;
       align-items: start !important;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
       .banner-content {
         display: flex;
         flex-direction: column;
