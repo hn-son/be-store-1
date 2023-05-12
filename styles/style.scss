@@ -501,6 +501,9 @@ body {
 
     .slider-1 {
       background-image: url(../assets/images/bethemestore2-slider-bg1.webp);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
       justify-content: space-around;
 
       .banner-pic {
@@ -580,7 +583,9 @@ body {
 
     .slider-2 {
       background-image: url(../assets/images/bethemestore2-slider-bg2.webp);
-
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
       .banner-pic {
         position: absolute;
         top: 0;

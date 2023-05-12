@@ -389,6 +389,9 @@ body {
 }
 .main .present-banner .slider-1 {
   background-image: url(../assets/images/bethemestore2-slider-bg1.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   justify-content: space-around;
 }
 .main .present-banner .slider-1 .banner-pic {
@@ -454,6 +457,9 @@ body {
 }
 .main .present-banner .slider-2 {
   background-image: url(../assets/images/bethemestore2-slider-bg2.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 .main .present-banner .slider-2 .banner-pic {
   position: absolute;
@@ -512,6 +518,9 @@ body {
   background-image: url(../assets/images/bethemestore2-slider-bg3.webp);
   justify-content: center;
   align-items: start !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 .main .present-banner .slider-3 .banner-content {
   display: flex;
