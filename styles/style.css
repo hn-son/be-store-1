@@ -28,11 +28,9 @@ body {
 
 .header-mobile {
   display: none;
-  position: fixed;
   z-index: 666;
   background-color: #fff;
   width: 100%;
-  display: flex;
   padding: 20px 0;
   bottom: 0;
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
@@ -47,6 +45,7 @@ body {
 @media only screen and (max-width: 767px) {
   .header-mobile {
     display: flex;
+    position: fixed;
   }
 }
 
@@ -1155,7 +1154,8 @@ body {
     justify-content: flex-start;
     align-items: center;
   }
-  .main .sound-products .sp-wrapper .content h2.title, .main .sound-products .sp-wrapper .content p {
+  .main .sound-products .sp-wrapper .content h2.title,
+  .main .sound-products .sp-wrapper .content p {
     max-width: 100%;
     text-align: center;
   }
